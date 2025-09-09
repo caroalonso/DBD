@@ -8,6 +8,7 @@
 🔹 **Ejercicios:**  
 
 -  [Ejercicio 1 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.1.jpg)
+-  [Ejercicio 1 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1.1.jpg)
 -  [Ejercicio 2 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.2.jpg)
 -  [Ejercicio 3 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.3.jpg)
 -  [Ejercicio 4 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.3.jpg)
