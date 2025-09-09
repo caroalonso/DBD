@@ -28,7 +28,11 @@
 -  [Ejercicio 8 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.8.jpg)
 -  [Ejercicio 9 (2045)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.9.jpg)
 
+---
 
+### 📄 [Práctica 2 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Pr%C3%A1ctica%202.pdf)
+
+🔹 **Ejercicios:** 
 
 ---
 
