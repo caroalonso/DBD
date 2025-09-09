@@ -2,8 +2,8 @@
 
 ## **Prácticas**
 
-### 📄 [Práctica 1 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201.pdf)
-### 📄 [Práctica 1 (2025)]()
+### 📄 [Práctica 1 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201%202024.pdf)
+### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201%202025%20.pdf)
 
 🔹 **Ejercicios:**  
 
