@@ -38,10 +38,10 @@
 ### 📄 [Práctica 2 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Pr%C3%A1ctica%202.pdf)
 
 🔹 **PRIMERA PARTE** 
- - [1. Conceptual]() 
- - [2. Conceptual]() 
- - [3. Conceptual]() 
- - [4. Conceptual]() 
+ - [1. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio1/conceptual_01.jpg) 
+ - [2. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio2/conceptual_02.jpg) 
+ - [3. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio3/conceptual_03.jpg) 
+ - [4. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/conceptual_04.jpg) 
  
  
 
