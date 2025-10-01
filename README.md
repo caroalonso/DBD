@@ -2,22 +2,6 @@
 
 ## **Prácticas**
 
-### 📄 [Práctica 1 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201%202024.pdf)
-
-🔹 **Ejercicios:**  
--  [Ejercicio 1 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.1.jpg)
--  [Ejercicio 2 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.2.jpg)
--  [Ejercicio 3 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.3.jpg)
--  [Ejercicio 4 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.3.jpg)
--  [Ejercicio 5.a (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.5a.jpg)
--  [Ejercicio 5.b (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.5a.jpg)
--  [Ejercicio 5.c (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.5c.jpg)
--  [Ejercicio 6 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.6.jpg)
--  [Ejercicio 7 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.7.jpg)
--  [Ejercicio 8 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.8.jpg)
--  [Ejercicio 9 (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1.9.jpg)
-- 📄 [Notas (2024)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/Notas%20Practica%201%20DBD.pdf)
-
 ### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201%202025%20.pdf)
 
 🔹 **Ejercicios:**  
@@ -39,10 +23,17 @@
 
 🔹 **PRIMERA PARTE** 
  - [1. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio1/conceptual_01.jpg) 
- - [2. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio2/conceptual_02.jpg) 
- - [3. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio3/conceptual_03.jpg) 
+ - [1. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio1/logico_01.jpg)
+ - [1. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio1/fisico_01.jpg)
+ - [2. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio2/conceptual_02.jpg)
+ - [2. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio2/logico_02.jpg)
+ - [2. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio2/fisico_02.jpg)
+ - [3. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio3/conceptual_03.jpg)
+ - [3. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio3/logico_03.jpg)
+ - [3. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio3/fisico_03.jpg)
  - [4. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/conceptual_04.jpg) 
- 
+ - [4. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/logico_04.jpg)
+ - [4. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/fisico_04.jpg)
  
 
 
