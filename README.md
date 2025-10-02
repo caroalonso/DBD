@@ -34,6 +34,12 @@
  - [4. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/conceptual_04.jpg) 
  - [4. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/logico_04.jpg)
  - [4. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio4/fisico_04.jpg)
+ - [5. Conceptual X] 
+ - [6. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio6/conceptual_06.jpg)
+ - [7. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio7/conceptual_07.jpg)
+ - [8. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio8/conceptual_08.jpg)
+ - [9. Conceptual X] 
+  
  
 
 
