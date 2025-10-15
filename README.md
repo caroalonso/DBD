@@ -49,6 +49,9 @@
  - [9. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio9/conceptual_09.jpg)
  - [9. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio9/logico_09.jpg)
  - [9. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio9/fisico_09.jpg)
+ - [10. Conceptual](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio10/conceptual_10.jpg)
+ - [10. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio10/logico_10.jpg)
+ - [10. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte1/ejercicio10/fisico_10.jpg)
   
  
 
