@@ -5,17 +5,17 @@
 ### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/practica1.pdf)
 
 🔹 **Ejercicios:**  
--  [Ejercicio 1]()
--  [Ejercicio 2]()
--  [Ejercicio 3]()
--  [Ejercicio 4]()
--  [Ejercicio 5.a]() 
--  [Ejercicio 5.b]()
--  [Ejercicio 5.c]()
--  [Ejercicio 6]()
--  [Ejercicio 7]()
--  [Ejercicio 8]()
--  [Ejercicio 9]()
+-  [Ejercicio 1](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/1.jpg)
+-  [Ejercicio 2](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/2.jpg)
+-  [Ejercicio 3](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/3.jpg)
+-  [Ejercicio 4](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/4.jpg)
+-  [Ejercicio 5.a](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/5a.jpg) 
+-  [Ejercicio 5.b](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/5b.jpg)
+-  [Ejercicio 5.c](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/5c.jpg)
+-  [Ejercicio 6](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/6.jpg)
+-  [Ejercicio 7](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/7.jpg)
+-  [Ejercicio 8](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/8.jpg)
+-  [Ejercicio 9](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/resolucion/9.jpg)
 ---
 
 ### 📄 [Práctica 2 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Pr%C3%A1ctica%202.pdf)
