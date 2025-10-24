@@ -5,7 +5,7 @@
 ### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/practica1.pdf)
 
 🔹 **Ejercicios:**  
--  [Ejercicio 1](https://raw.githubusercontent.com/caroalonso/DBD/main/practicas/practica1/resolucion/1.jpg)
+-  [Ejercicio 1]()
 -  [Ejercicio 2]()
 -  [Ejercicio 3]()
 -  [Ejercicio 4]()
