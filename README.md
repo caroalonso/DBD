@@ -2,21 +2,20 @@
 
 ## **Prácticas**
 
-### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Pr%C3%A1ctica%201%202025%20.pdf)
+### 📄 [Práctica 1 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica1/practica1.pdf)
 
 🔹 **Ejercicios:**  
--  [Ejercicio 1](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_1.jpg)
--  [Ejercicio 2](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_2.jpg)
--  [Ejercicio 3](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_3.jpg)
--  [Ejercicio 4](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_4.jpg)
--  [Ejercicio 5.a](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_5a.jpg)
--  [Ejercicio 5.b](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_5b.jpg)
--  [Ejercicio 5.c](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_5c.jpg)
--  [Ejercicio 6](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2025/tp1_6.jpg)
--  [Ejercicio 7](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1_7.jpg)
--  [Ejercicio 8](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1_8.jpg)
--  [Ejercicio 9](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%201/Resoluci%C3%B3n%20Pr%C3%A1ctica/2024/tp1_9.jpg)
-
+-  [Ejercicio 1]()
+-  [Ejercicio 2]()
+-  [Ejercicio 3]()
+-  [Ejercicio 4]()
+-  [Ejercicio 5.a]() 
+-  [Ejercicio 5.b]()
+-  [Ejercicio 5.c]()
+-  [Ejercicio 6]()
+-  [Ejercicio 7]()
+-  [Ejercicio 8]()
+-  [Ejercicio 9]()
 ---
 
 ### 📄 [Práctica 2 (2025)](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Pr%C3%A1ctica%202.pdf)
