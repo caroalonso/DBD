@@ -88,5 +88,12 @@
  - [7. Logico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte2/ejercicio7/7.logico.jpg)
  - [7. Fisico](https://github.com/caroalonso/DBD/blob/main/Pr%C3%A1cticas/Pr%C3%A1ctica%202/Resoluci%C3%B3n%20Pr%C3%A1ctica/Parte2/ejercicio7/7.fisico.jpg) 
 
+---
 
+### 📄 [Práctica 3 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/practica3.pdf)
+- [Resolución Práctica 3]() 
+
+---
+
+### 📄 [Práctica 4 (2025)]()
 
