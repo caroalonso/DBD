@@ -91,7 +91,7 @@
 ---
 
 ### 📄 [Práctica 3 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/practica3.pdf)
-- [Resolución Práctica 3]() 
+- [Ejercicio 1](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/ejercicio1.pdf) 
 
 ---
 
