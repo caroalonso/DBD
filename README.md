@@ -92,9 +92,9 @@
 
 ### 📄 [Práctica 3 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/practica3.pdf)
 - [Ejercicio 1](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/ejer1.pdf) 
-- [Ejercicio 2](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/EJERCICIO2.pdf)
-- [Ejercicio 3](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/EJERCICIO%203.pdf)
-- [Ejercicio 4](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/EJERCICIO%204.pdf)
+- [Ejercicio 2](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/ejer2.pdf)
+- [Ejercicio 3](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/ejer3.pdf)
+- [Ejercicio 4](https://github.com/caroalonso/DBD/blob/main/practicas/practica3/resolucion/ejer4.pdf)
 ---
 
 ### 📄 [Práctica 4 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/DBD-2025%20-%20Practica%204%20-%20SQL.pdf)
