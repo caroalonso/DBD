@@ -98,4 +98,5 @@
 ---
 
 ### 📄 [Práctica 4 (2025)](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/DBD-2025%20-%20Practica%204%20-%20SQL.pdf)
+- [Ejercicio 1](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/resolucion/Ejercicio%201.txt) 
 
