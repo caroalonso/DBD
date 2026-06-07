@@ -3,8 +3,7 @@
 SELECT c.nombre, c.apellido, c.DNI,c.telefono, c.direccion
 FROM cliente c
 WHERE (c.apellido LIKE 'Pe%');
-
-
+ORDER BY c.dni;
 
 -- 2.Listar nombre, apellido, DNI, teléfono y dirección de clientes que realizaron compras solamente
 -- durante 2024.
