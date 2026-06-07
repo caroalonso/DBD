@@ -102,4 +102,5 @@
 - [Ejercicio 2](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/resolucion/Ejercicio%202.sql)
 - [Ejercicio 3](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/resolucion/Ejercicio3.sql)
 - [Ejercicio 4](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/resolucion/Ejercicio4.sql)
+- [Ejercicio 5](https://github.com/caroalonso/DBD/blob/main/practicas/practica4/resolucion/Ejercicio%205.sql)
 
