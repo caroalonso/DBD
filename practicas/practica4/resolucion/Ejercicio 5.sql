@@ -79,7 +79,7 @@ WHERE NOT EXISTS(
 UPDATE cliente SET telefono='221-4400897' WHERE dni=38495444;
 
 
--- Listar razón social, dirección y teléfono de la/s agencias que tengan mayor cantidad de viajes
+-- 8. Listar razón social, dirección y teléfono de la/s agencias que tengan mayor cantidad de viajes
 realizados.
 
 SELECT a.razon_social,a.direccion,a.telef,COUNT(*) AS cantidad
